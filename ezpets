@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://paste.ee/r/s5i2mHZ8"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TypesOul-cell/Growagarden-petduper/refs/heads/main/petspawner-anduper"))()
